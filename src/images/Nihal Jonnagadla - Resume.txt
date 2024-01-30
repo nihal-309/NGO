@@ -1,0 +1,39 @@
+Nihal Jonnagadla
+
+Vellore
+7760413198
+
+Hey there, I'm Nihal, a second-year undergraduate student passionate about front-end development. Currently majoring in computer science, I thrive on the perfect blend of coding and design. You'll often find me immersed in projects, pushing the boundaries to create visually striking and user-friendly websites
+
+PERSONAL INFORMATION
+  Address: , Vellore, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SKILLS
+  HTML & CSS
+  JavaScript
+  HyperText Markup Language (HTML)
+  Front End (Software Engineering)
+  C (Programming Language)
+  Python (Programming Language)
+  Java (Programming Language)
+
+EDUCATION
+  * January 2022
+    ,  SSC (CBSE),
+  * January 2026
+    VIT Vellore,  Bachelor of Technology in Computer Science
+
+PROJECTS
+  * A spotify clone using vanilla HTML&CSS, , 
+
+    https://nihal-309.github.io/spot/
+  * An auction website, , 
+
+    https://nihal-309.github.io/VITCL_auction1/
+  * NGO website, , 
+
+    https://url-client.vercel.app/NGO
+  * , , 
